@@ -4,3 +4,4 @@ This repository contains my solutions to functional programming practice questio
 2. List: List Length (HR), Filter Positions in a List (HR), Reverse a List (HR), Sum of Odd Elements (HR)
 3. Map, Filter, Reduce:
 * Map: Update List (HR)
+* Filter: Filter Array (HR)
