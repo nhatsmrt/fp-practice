@@ -3,6 +3,8 @@ This repository contains my solutions to functional programming practice questio
 1. Pattern Matching
 2. List: List Length (HR), Filter Positions in a List (HR), Reverse a List (HR), Sum of Odd Elements (HR)
 3. Map, Filter, Reduce:
-* Map: Update List (HR)
-* Filter: Filter Array (HR)
+  * Map: Update List (HR)
+  * Filter: Filter Array (HR)
 4. Memoization/DP: Fibonacci (HR)
+5. Iterable methods:
+  * Interleave: String Mingling (HR)
